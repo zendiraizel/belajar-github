@@ -3,3 +3,4 @@ Saya ingin menjadi developer yang memahami version control.
 Saya juga sedang belajar GitHub secara langsung.
 Saya sedang mengerjakan fitur login.
 Saya sedang mengerjakan fitur dashboard.
+Saya sedang mengerjakan fitur profile.
