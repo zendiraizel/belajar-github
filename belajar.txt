@@ -1,2 +1,3 @@
 Saya sedang belajar Git dan GitHub.
 Saya ingin menjadi developer yang memahami version control.
+Saya juga sedang belajar GitHub secara langsung.
