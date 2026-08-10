@@ -3,3 +3,4 @@ rahasia.txt
 .env
 *.log
 node_modules/
+data.txt
