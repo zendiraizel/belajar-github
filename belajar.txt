@@ -7,4 +7,3 @@ Saya sedang mengerjakan fitur profile.
 Saya sedang mengerjakan fitur register.
 Saya sedang belajar cara membatalkan staging.
 Saya sedang belajar git reset mixed.
-Saya sedang belajar git revert.
