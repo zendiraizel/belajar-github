@@ -8,3 +8,11 @@ Saya sedang mengerjakan fitur register.
 Saya sedang belajar cara membatalkan staging.
 Saya sedang belajar git reset mixed.
 Saya sedang belajar git rebase di branch master.
+Saya sedang belajar git rebase.
+Latihan interactive rebase - commit 1.
+Latihan interactive rebase - commit 2.
+Latihan interactive rebase - commit 3.
+Latihan fixup pada interactive rebase.
+Perubahan kecil untuk latihan fixup.
+Commit ini akan diambil menggunakan cherry-pick.
+
