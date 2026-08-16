@@ -15,4 +15,4 @@ Latihan interactive rebase - commit 3.
 Latihan fixup pada interactive rebase.
 Perubahan kecil untuk latihan fixup.
 Commit ini akan diambil menggunakan cherry-pick.
-
+Latihan cherry-pick commit pertama.
