@@ -17,3 +17,4 @@ Perubahan kecil untuk latihan fixup.
 Commit ini akan diambil menggunakan cherry-pick.
 Latihan cherry-pick commit pertama.
 Latihan cherry-pick commit kedua.
+Latihan cherry-pick range - A.
