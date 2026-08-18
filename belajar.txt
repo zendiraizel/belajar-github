@@ -21,3 +21,4 @@ Latihan cherry-pick range - A.
 Latihan cherry-pick range - B.
 Latihan cherry-pick range - C.
 Saya sedang belajar Git Tag dan Release.
+Latihan fast-forward merge.
