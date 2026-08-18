@@ -23,3 +23,4 @@ Latihan cherry-pick range - C.
 Saya sedang belajar Git Tag dan Release.
 Latihan fast-forward merge.
 Latihan merge dengan no-ff.
+Latihan push menggunakan upstream.
