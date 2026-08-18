@@ -7,7 +7,8 @@ Saya sedang mengerjakan fitur profile.
 Saya sedang mengerjakan fitur register.
 Saya sedang belajar cara membatalkan staging.
 Saya sedang belajar git reset mixed.
-Saya sedang belajar git rebase di branch master.
+Versi master-conflict.
+Versi feature-conflict.
 Saya sedang belajar git rebase.
 Latihan interactive rebase - commit 1.
 Latihan interactive rebase - commit 2.
