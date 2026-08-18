@@ -25,3 +25,4 @@ Latihan fast-forward merge.
 Latihan merge dengan no-ff.
 Latihan push menggunakan upstream.
 Simulasi perubahan dari developer lain.
+git switch feature-remote
