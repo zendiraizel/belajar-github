@@ -5,3 +5,26 @@ Saya sedang mengerjakan fitur login.
 Saya sedang mengerjakan fitur dashboard.
 Saya sedang mengerjakan fitur profile.
 Saya sedang mengerjakan fitur register.
+Saya sedang belajar cara membatalkan staging.
+Saya sedang belajar git reset mixed.
+Versi master-abort.
+Saya sedang belajar git rebase.
+Latihan interactive rebase - commit 1.
+Latihan interactive rebase - commit 2.
+Latihan interactive rebase - commit 3.
+Latihan fixup pada interactive rebase.
+Perubahan kecil untuk latihan fixup.
+Commit ini akan diambil menggunakan cherry-pick.
+Latihan cherry-pick commit pertama.
+Latihan cherry-pick commit kedua.
+Latihan cherry-pick range - A.
+Latihan cherry-pick range - B.
+Latihan cherry-pick range - C.
+Saya sedang belajar Git Tag dan Release.
+Latihan fast-forward merge.
+Latihan merge dengan no-ff.
+Latihan push menggunakan upstream.
+Simulasi perubahan dari developer lain.
+git switch feature-remote
+Latihan pull rebase - perubahan lokal.
+
