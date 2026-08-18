@@ -27,4 +27,4 @@ Latihan push menggunakan upstream.
 Simulasi perubahan dari developer lain.
 git switch feature-remote
 Latihan pull rebase - perubahan lokal.
-
+Latihan fitur login untuk Issue #3.
