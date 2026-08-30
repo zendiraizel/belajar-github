@@ -4,7 +4,7 @@ function tambah(a, b) {
 
 const hasil = tambah(2, 3);
 
-if (hasil !== 6) {
+if (hasil !== 5) {
   throw new Error("Test gagal!");
 }
 
